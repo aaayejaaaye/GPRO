@@ -1,7 +1,7 @@
-<p align = "center">
+
 <h1 align ="center">Welcome to GPRO Project Site</>
 <img align="center" src="https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG">
-</p>
+
 <p align ="center">
 <h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
 <h4 >Apps main funtionalities:</h4>
