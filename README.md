@@ -1,5 +1,6 @@
 <p align = "center"># Welcome to GPRO Project Site
-![img](https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG)</p>
+<img src="https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG">
+</p>
 ```markdown
 Welcome to the site page for Gpro Magic the gathering application. 
 This app has three main funtionalities
