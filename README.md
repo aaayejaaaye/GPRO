@@ -1,5 +1,5 @@
 
-<p><h1 align ="center">Welcome to GPRO Project Site</h1>
+<p align ="center"><h1 align ="center">Welcome to GPRO Project Site</h1>
 <img align="center" src="https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG">
 </p>
 <p align ="center">
