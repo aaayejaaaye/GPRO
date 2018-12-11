@@ -12,8 +12,8 @@
 </ul>  
 
 </p>
-<p align ="center">
-<h3 Project Members:</h3>
+<p >
+<h4> Project Members:</h4>
 <ul align ="center">
   <li align ="center">AJ Jones @amjo3456@colorado.edu</li>
   <li align ="center">Joshua Nguyen @jong5039@colorado.edu</li>
