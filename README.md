@@ -4,10 +4,13 @@
 </p>
 <p>
 <h3>Welcome to the site page for Gpro Magic the gathering application </h3>
-This app has three main funtionalities
-1.
-2.
-3.
+<h4>This app has three main funtionalities:</h4>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
 </p>
 <p>
 <h3>Project Members:</h3>
