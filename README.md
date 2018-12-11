@@ -4,11 +4,11 @@
 </p>
 <p align ="center">
 <h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
-<h4 >This apps main funtionalities:</h4>
+<h4 >Apps main funtionalities:</h4>
 <ul align ="center">
-  <li text-align ="center">Coffee</li>
-  <li text-align ="center">Tea</li>
-  <li text-align ="center">Milk</li>
+  <li >To provide a way for player to track interation of decks via articles and post wth funtion including delete, edit, and write.</li>
+  <li >To include a social media aspect where the user can easily share and view others people post</li>
+  <li >To make researching and browsing article quick and efficient </li>
 </ul>  
 
 </p>
