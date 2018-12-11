@@ -1,5 +1,5 @@
 
-<h1 align ="center">Welcome to GPRO Project Site</>
+<h1 align ="center">Welcome to GPRO Project Site</h1>
 <img align="center" src="https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG">
 
 <p align ="center">
@@ -12,7 +12,7 @@
 </ul>  
 
 </p>
-<p >
+<p>
 <h4> Project Members:</h4>
 <ul align ="center">
   <li align ="center">AJ Jones @amjo3456@colorado.edu</li>
@@ -22,14 +22,14 @@
 
 
 </p>
-<p>
+
   <h4>Sources </h4>
   <ul align ="center">
   <li><a align ="center" href ="https://drive.google.com/file/d/1GojM150Z2TT8swMOaa18TNI3M_jlgl2J/view?usp=sharing" title="Final Video">Final Video</a></li>
   <li><a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1&scaling=scale-down">Final Protoype</a></li>  
 </ul> 
 
-</p>
+
 
 
 
