@@ -1,5 +1,5 @@
 # Welcome to GPRO Project Site
-![img]()
+![img](https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG)
 ```markdown
 Welcome to the site page for Gpro Magic the gathering application. 
 This app has three main funtionalities
@@ -18,8 +18,5 @@ Joshua Nguyen @jong5039@colorado.edu
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 
