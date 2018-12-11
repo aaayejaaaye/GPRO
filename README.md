@@ -4,11 +4,11 @@
 </p>
 <p align ="center">
 <h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
-<h4 align ="center">This app has three main funtionalities:</h4>
+<h4 align ="center">This apps main funtionalities:</h4>
 <ul align ="center">
-  <li align ="center">Coffee</li>
-  <li align ="center">Tea</li>
-  <li align ="center">Milk</li>
+  <li text-align ="center">Coffee</li>
+  <li text-align ="center">Tea</li>
+  <li text-align ="center">Milk</li>
 </ul>  
 
 </p>
