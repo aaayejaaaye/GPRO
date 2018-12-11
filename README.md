@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to GPR Project Site
+![img]()
+AJ Jones @amjo3456@colorado.edu
+Joshua Nguyen @jong5039@colorado.edu
+Welcome to the site page for Gpro Magic the gathering application. 
+This app has three main funtionalities
+1.
+2.
+3.
+[## Final Video](https://drive.google.com/file/d/1GojM150Z2TT8swMOaa18TNI3M_jlgl2J/view?usp=sharing)
+[## Final Prototype](https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1&scaling=scale-down)
 
-You can use the [editor on GitHub](https://github.com/aaayejaaaye/GPRO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
