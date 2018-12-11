@@ -4,7 +4,7 @@
 </p>
 <p align ="center">
 <h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
-<h4 align ="center">This apps main funtionalities:</h4>
+<h4 >This apps main funtionalities:</h4>
 <ul align ="center">
   <li text-align ="center">Coffee</li>
   <li text-align ="center">Tea</li>
@@ -13,7 +13,7 @@
 
 </p>
 <p align ="center">
-<h3 align ="center">Project Members:</h3>
+<h3 Project Members:</h3>
 <ul align ="center">
   <li align ="center">AJ Jones @amjo3456@colorado.edu</li>
   <li align ="center">Joshua Nguyen @jong5039@colorado.edu</li>
