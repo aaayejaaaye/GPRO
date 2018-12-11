@@ -6,20 +6,28 @@
 <h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
 <h4 align ="center">This app has three main funtionalities:</h4>
 <ul align ="center">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li align ="center">Coffee</li>
+  <li align ="center">Tea</li>
+  <li align ="center">Milk</li>
 </ul>  
 
 </p>
 <p align ="center">
 <h3 align ="center">Project Members:</h3>
-AJ Jones @amjo3456@colorado.edu
-Joshua Nguyen @jong5039@colorado.edu
+<ul align ="center">
+  <li align ="center">AJ Jones @amjo3456@colorado.edu</li>
+  <li align ="center">Joshua Nguyen @jong5039@colorado.edu</li>
+  
+</ul> 
+
+
 </p>
 <p align ="center">
-<a align ="center" href ="https://drive.google.com/file/d/1GojM150Z2TT8swMOaa18TNI3M_jlgl2J/view?usp=sharing" title="Final Video">Final Video</a>
-<a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1&scaling=scale-down">Final Protoype</a>
+  <ul align ="center">
+  <li><a align ="center" href ="https://drive.google.com/file/d/1GojM150Z2TT8swMOaa18TNI3M_jlgl2J/view?usp=sharing" title="Final Video">Final Video</a></li>
+  <li><a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1&scaling=scale-down">Final Protoype</a></li>  
+</ul> 
+
 </p>
 
 
