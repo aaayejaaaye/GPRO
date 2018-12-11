@@ -2,7 +2,7 @@
 <h1 align ="center">Welcome to GPRO Project Site</>
 <img align="center" src="https://raw.githubusercontent.com/aaayejaaaye/GPRO/master/gpro.PNG">
 </p>
-<p>
+<p align ="center">
 <h3>Welcome to the site page for Gpro Magic the gathering application </h3>
 <h4>This app has three main funtionalities:</h4>
 <ul>
