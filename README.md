@@ -1,7 +1,7 @@
 
 
-<p align ="center">
-<h3 align ="center">Welcome to the site page for Gpro Magic the gathering application </h3>
+<p>
+<h3>Welcome to the site page for Gpro Magic the gathering application </h3>
 <h4 >Apps main funtionalities:</h4>
 <ul align ="center">
   <li >To provide a way for player to track interation of decks via articles and post wth funtion including delete, edit, and write.</li>
