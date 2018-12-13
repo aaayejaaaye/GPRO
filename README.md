@@ -24,7 +24,7 @@
   <h4>Sources </h4>
   <ul align ="center">
   <li><a align ="center" href ="https://drive.google.com/file/d/1GojM150Z2TT8swMOaa18TNI3M_jlgl2J/view?usp=sharing" title="Final Video">Final Video</a></li>
-  <li><a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1&scaling=scale-down">Final Protoype</a></li> <li><a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=292%3A2434&scaling=min-zoom">Final Protoype</a></li> 
+  <li><a align ="center" href="hhttps://www.figma.com/file/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=0%3A1">Final Protoype Editor</a></li> <li><a align ="center" href="https://www.figma.com/proto/CoKRfb5dzIvFDtDXSi81HT5d/App?node-id=292%3A2434&scaling=min-zoom">Final Protoype</a></li> 
 </ul> 
 
 
